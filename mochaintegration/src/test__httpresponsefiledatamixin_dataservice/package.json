@@ -1,0 +1,20 @@
+{
+  "name": "test__httpresponsefiledatamixin_dataservice",
+  "version": "1.0.0",
+  "description": "DataService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null@null:null/data.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "Data"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
